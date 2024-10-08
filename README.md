@@ -1,0 +1,1 @@
+Esta aplicación es una implementación de un sistema de mapas interactivo que utiliza la API de Google Maps. Permite a los usuarios visualizar un mapa, buscar ubicaciones, obtener direcciones, y agregar marcadores personalizados. Esta herramienta puede ser útil para mostrar puntos de interés, calcular rutas o simplemente navegar a través de diferentes regiones geográficas.
